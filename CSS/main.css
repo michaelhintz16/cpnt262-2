@@ -1,0 +1,97 @@
+
+body {
+  font-family: "oswald", sans-serif;
+  font-size: 2rem;
+  width: 80vw;  
+  margin: auto;
+  color:rgb(8, 8, 8);
+    background: linear-gradient(110deg, #fdcd3b 60%,green 60%, lightblue 60%);
+    
+    
+}
+h1 {
+  font-size: 6rem;
+  word-spacing: 10%;
+  font-weight: 700;
+  text-align: center;
+  margin: 2rem; 
+  background: linear-gradient(50deg, #c5993a 50%, rgb(235, 150, 14) 0);
+  
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  
+  
+
+}
+
+figure{
+  padding: 20px 20px 100px 20px;
+  font-size:1rem;
+	max-width: 1300px;
+	margin: 0 auto;
+	list-style: none;
+	text-align: center;  margin: 1.2rem;
+  
+  
+
+  
+}
+figure a {
+  display: inline-block;
+	width: 200px;
+	margin: 0;
+	padding: 20px;
+	text-align: left;
+	position: relative;
+  
+}
+
+figure img {
+  max-height: auto;
+  max-width: 20rem;
+  object-fit: flex;  
+  vertical-align: cover;
+  border-radius: 30% 10% 10% 8%;
+	transition: transform 0.4s;
+}
+
+ figure:hover{
+  transform: translateY(-10%);
+  
+}
+
+figure figcaption{
+  position: fixed;
+  height: 90px;
+  left: 40px;
+	width: 20rem;
+	bottom: 40px;
+background-color: #333;
+
+
+
+}
+
+figure figcaption a { 
+  position: relative;
+	left: 0px;
+	top: 30px;
+  color: #06e719;
+  text-decoration: none ;
+}
+@media screen and (max-width: 600px) {
+  .column {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 10%;
+  }
+}
