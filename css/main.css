@@ -1,0 +1,105 @@
+body {
+  font-family: "oswald", sans-serif;
+  font-size: 2rem;
+  width: 80vw;  
+  margin: auto;
+  color:rgb(8, 8, 8);
+    background: linear-gradient(110deg, #fdcd3b 60%,green 60%, lightblue 60%);
+    
+    
+}
+h1 {
+  font-size: 6rem;
+  word-spacing: 10%;
+  font-weight: 700;
+  text-align: center;
+  margin: 2rem; 
+  background: linear-gradient(50deg, #c5993a 50%, rgb(235, 150, 14) 0);
+  
+}
+
+
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-wrap: wrap;
+  
+  
+  
+
+}
+
+figure{
+  padding: 20px 20px 100px 20px;
+  font-size:2rem;
+  max-width: 1300px;
+  margin: 0 auto;
+  list-style: none;
+  text-align: center;  margin: 1.2rem;
+  
+  
+
+  
+}
+figure a {
+  display: inline-block;
+  width: 250px;
+  height: auto;
+  margin: 0;
+  padding: 20px;
+  text-align: left;
+  position: relative;
+  
+}
+
+figure img {
+  max-height: auto;
+  max-width: 100%;
+  object-fit: cover;  
+  vertical-align: bottom;
+  border-radius: 15px 15px 0 0;
+}
+
+figure:hover{
+  transform: translateY(-10%);
+  
+}
+
+figure figcaption{
+  position: relative;
+  height: 90px;
+  left: 7%;
+  width: 16rem;
+  bottom: 20px;
+  font-size: 17px;
+background-color: #333;
+
+
+
+}
+
+figure figcaption a { 
+  position: relative;
+  left: 0px;
+  top: 30px;
+  color: #06e719;
+  text-decoration: none ;
+
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 10%;
+    
+  }footer {
+    padding-top: 4rem;
+  
+    text-align: center;
+    font-size: 1.3rem;  
+  }
+  
+}
