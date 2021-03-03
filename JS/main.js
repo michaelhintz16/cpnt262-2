@@ -3,6 +3,7 @@
 		title: "Xbox Controller",
 		description: "White xbox Controller",
 		width: 400,
+		height: 400,
 		pathURL: "assets/images/xbox.jpg",
 		linkURL: "https://en.wikipedia.org/wiki/Nintendo",
 		credit: "@lppoitras",
@@ -12,6 +13,7 @@
 		title: "Nintendo controller",
 		description: "Nintendo Controller ",
 		width: 400,
+		height: 400,
 		pathURL: "assets/images/Nintendo.jpg",
 		linkURL: "https://en.wikipedia.org/wiki/Nintendo",
 		credit: "@helloimnik",
@@ -20,6 +22,7 @@
 		title: "Pinball",
 		description: "Pinball machine",
 		width: 400,
+		height: 400,
 		pathURL: "assets/images/Pinball.jpg",
 		linkURL: "https://en.wikipedia.org/wiki/Pinball",
 		credit: "@sickhews",
@@ -28,6 +31,7 @@
 		title: "Ps5",
 		description:  "White ps5",
 		width: 400,
+		height:400,
 		pathURL: "assets/images/ps5.jpg",
 		linkURL: "https://en.wikipedia.org/wiki/PlayStation_5",
 		credit: "@cortes",
@@ -36,6 +40,7 @@
 		title: " 2DS",
 		description: "White 2ds",
 		width: 400,
+		height: 400,
 		pathURL: "assets/images/2ds.jpg",
 		linkURL: "https://en.wikipedia.org/wiki/Nintendo_2DS",
 		credit: "@dmjdenises",
@@ -52,6 +57,7 @@
 		title:  "Gameboy",
 		description: "Clear Gameboy ",
 		width: 400,
+		height: 400,
 		pathURL: "assets/images/Gameboy.jpg",
 		linkURL: "https://en.wikipedia.org/wiki/Game_Boy",
 		credit: "@spen",
@@ -60,6 +66,7 @@
 		title: "SNES",
 		description: "SNES controller and console",
 		width: 400,
+		height: 400,
 		pathURL: "assets/images/SNES.jpg",
 		linkURL: "https://en.wikipedia.org/wiki/List_of_Super_Nintendo_Entertainment_System_games",
 		credit: "@korie",
@@ -86,6 +93,7 @@
 
 		const figure = document.createElement('figure');
 		figure.style.maxWidth = `${myImages[i].width}px`;
+		figure.style.maxheight = `${myImages[i].height}px`;
 		container.appendChild(figure);
 
 		// Title for each image.
