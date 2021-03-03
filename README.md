@@ -2,6 +2,9 @@
 # cpnt262-2
 Michael Hintz 
 
+# [Github Page](https://github.com/michaelhintz16/cpnt262-2/deployments/activity_log?environment=github-pages)
+# [Github Repo](https://github.com/michaelhintz16/cpnt262-2)
+
 # About 
 * This s a Dynamic Image gallery. when you put the curser on the images they move up and a link appears at the bottom  that links to the authors unsplash page. Wheny ou click on the picture it links to the wiki page for the images 
 
@@ -36,5 +39,4 @@ this helped me understand more about for loops and let,
 * [image hover affect](https://tympanus.net/Tutorials/CaptionHoverEffects/index2.html) 
 i tried to make the figure captions go away when your not hovering on them like the link shows but it did not work. 
 
-# [Github Page](https://github.com/michaelhintz16/cpnt262-2/deployments/activity_log?environment=github-pages)
-[Github Repo](https://github.com/michaelhintz16/cpnt262-2)
+
