@@ -7,7 +7,7 @@
 			linkURL: "https://en.wikipedia.org/wiki/Nintendo",
 			credit: "@lppoitras",
 			creditURL: "https://unsplash.com/@lppoitras",
-		}, {
+		   }, {
 
 			title: "nintendo controller",
 			description: "Nintendo Controller ",
@@ -16,7 +16,7 @@
 			linkURL: "https://en.wikipedia.org/wiki/Nintendo",
 			credit: "@helloimnik",
 			creditURL: "hhttps://unsplash.com/@helloimnik",
-		}, {
+		   }, {
 			title: "Pinball",
 			description: "Pinball machine",
 			width: 400,
