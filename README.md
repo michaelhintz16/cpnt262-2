@@ -11,6 +11,7 @@ Michael Hintz
 *  For the figures i used the DomElement method. 
 *  created all the divs using docuemnt.createElement
 *  used appendchild to run it all on the html page. 
+*  coouldent get the hight to work. but realised its the same line of code as the width just height instead.
 
 
 
