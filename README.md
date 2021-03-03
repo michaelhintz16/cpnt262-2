@@ -32,3 +32,5 @@ this helped me understand more about for loops and let,
 * [Gameboy](https://unsplash.com/photos/Snd9thTUNOU)-Unsplash
 * [Family Consol](https://unsplash.com/photos/DDHNI1Y4wm8)-Unsplash
 * [N64 Controller](https://unsplash.com/photos/8qGqh9lN_9w)-Unsplash
+* [image hover affect](https://tympanus.net/Tutorials/CaptionHoverEffects/index2.html) 
+i tried to make the figure captions go away when your not hovering on them like the link shows but it did not work. 
