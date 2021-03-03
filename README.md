@@ -37,4 +37,4 @@ this helped me understand more about for loops and let,
 i tried to make the figure captions go away when your not hovering on them like the link shows but it did not work. 
 
 # [Github Page](https://github.com/michaelhintz16/cpnt262-2/deployments/activity_log?environment=github-pages)
-[Github Repo](
+[Github Repo](https://github.com/michaelhintz16/cpnt262-2}
