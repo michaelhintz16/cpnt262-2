@@ -6,7 +6,7 @@ Michael Hintz
  * [Github Repo](https://github.com/michaelhintz16/cpnt262-2)
 
 # About 
-* This s a Dynamic Image gallery. when you put the curser on the images they move up and a link appears at the bottom  that links to the authors unsplash page. Wheny ou click on the picture it links to the wiki page for the images 
+* This s a Dynamic Image gallery. when you put the curser on the images they move up. When you click on the image it goes to the authors unsplash page. When you click on the link it goes to the there wiki page. 
 
 
 # elements used 
