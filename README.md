@@ -4,7 +4,7 @@ Michael Hintz
 
 * [Github Page](https://github.com/michaelhintz16/cpnt262-2/deployments/activity_log?environment=github-pages)
  * [Github Repo](https://github.com/michaelhintz16/cpnt262-2)
-
+   * [readme](https://github.com/michaelhintz16/cpnt262-2/blob/main/README.md)
 # About 
 * This s a Dynamic Image gallery. when you put the curser on the images they move up. When you click on the image it goes to the authors unsplash page. When you click on the link it goes to the there wiki page. 
 
