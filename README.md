@@ -1,5 +1,5 @@
 
-# cpnt262-2
+# cpnt262-2 Dynamic Image Gallery
 Michael Hintz 
 
 * [Github Page](https://github.com/michaelhintz16/cpnt262-2/deployments/activity_log?environment=github-pages)
