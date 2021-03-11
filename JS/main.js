@@ -86,25 +86,25 @@
 		// For loop that generates the gallery.
 		//used querySelector to to return the first element
 		// to a specific css selector. 
-		const container = document.querySelector('.container');
+		  const container = document.querySelector('.container');
 
-		for (let i = 0; i < myImages.length ; i++) {
+		  for (let i = 0; i < myImages.length ; i++) {
 
-		// Creating the figure That grabs my images.
-		//nested with one element {my Images}.
+	// Creating the figure That grabs my images.
+	//nested with one element {my Images}.
 
-		const figure = document.createElement('figure');
-		figure.style.maxWidth = `${myImages[i].width}px`;
-		figure.style.maxheight = `${myImages[i].height}px`;
-		container.appendChild(figure);
+	const figure = document.createElement('figure');
+	figure.style.maxWidth = `${myImages[i].width}px`;
+	figure.style.maxheight = `${myImages[i].height}px`;
+  container.appendChild(figure);
 
 		// Title for each image.
 		// This was what we just learned. 
 		//this allows me to creat a new div.
 		//behind the scenes instead of in the html
-		const title = document.createElement('h2');
-		title.innerText = `${myImages[i].title}`;
-		figure.appendChild(title);
+		  const title = document.createElement('h2');
+		  title.innerText = `${myImages[i].title}`;
+		  figure.appendChild(title);
 
 		// Creating the link for the images.
 		//Div (a)created 

@@ -58,10 +58,13 @@
 
     figure:hover{
     transform: translateY(-10%);
+   
+
 
     }
     /* Figcaption styling*/
     figure figcaption{
+      
     position: relative;
     height: 90px;
     left: 5.3%;
@@ -76,6 +79,8 @@
 
 
     figure figcaption a { 
+      
+      
     position: relative;
     left: 0px;
     top: 30px;
