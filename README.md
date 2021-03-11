@@ -1,9 +1,12 @@
 
-# cpnt262-2
+# cpnt262-2 Dynamic Image Gallery
 Michael Hintz 
 
+* [Github Page](https://github.com/michaelhintz16/cpnt262-2/deployments/activity_log?environment=github-pages)
+ * [Github Repo](https://github.com/michaelhintz16/cpnt262-2)
+ * [readme](https://github.com/michaelhintz16/cpnt262-2/blob/main/README.md)
 # About 
-* This s a Dynamic Image gallery. when you put the curser on the images they move up and a link appears at the bottom  that links to the authors unsplash page. Wheny ou click on the picture it links to the wiki page for the images 
+* This s a Dynamic Image gallery. when you put the curser on the images they move up. When you click on the image it goes to the authors unsplash page. When you click on the link it goes to the there wiki page. 
 
 
 # elements used 
@@ -11,6 +14,7 @@ Michael Hintz
 *  For the figures i used the DomElement method. 
 *  created all the divs using docuemnt.createElement
 *  used appendchild to run it all on the html page. 
+*  coouldent get the hight to work. but realised its the same line of code as the width just height instead.
 
 
 
@@ -34,3 +38,5 @@ this helped me understand more about for loops and let,
 * [N64 Controller](https://unsplash.com/photos/8qGqh9lN_9w)-Unsplash
 * [image hover affect](https://tympanus.net/Tutorials/CaptionHoverEffects/index2.html) 
 i tried to make the figure captions go away when your not hovering on them like the link shows but it did not work. 
+
+
